@@ -1,0 +1,19 @@
+# Created by .ignore support plugin (hsz.mobi)
+### Example user template template
+### Example user template
+
+# IntelliJ project files
+.idea
+*.iml
+target
+gen
+consumer/target/generated-sources/
+consumer/target/generated-test-sources/
+eureka2/target/generated-sources/
+eureka2/target/generated-test-sources/
+my_eureka/target/generated-sources/
+my_eureka/target/generated-test-sources/
+redis_rpc/target/generated-sources/
+redis_rpc/target/generated-test-sources/
+userService/target/generated-sources/
+userService/target/generated-test-sources/
